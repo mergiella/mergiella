@@ -42,4 +42,4 @@ Hi there! 👋 I'm **Mercy Ivy Gabriella**, a final-year **Operations Management
 ### 📬 Let’s Connect!
 - 💌 **Email:** [gmercyivy@gmail.com](mailto:gmercyivy@gmail.com)  
 - 🔗 **LinkedIn:** [Mercy Ivy Gabriella](https://www.linkedin.com/in/mercyivyg/)  
-- 🌐 **Portfolio:** [Check it out here!](https://github.com/mergielia)
+- 🌐 **Portfolio:** [Check it out here!](https://github.com/mergiella)
