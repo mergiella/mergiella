@@ -26,12 +26,6 @@ Hi there! 👋 I'm **Mercy Ivy Gabriella**, a final-year **Operations Management
 
 ---
 
-### 🤝 How I Work:
-- 💕 **Collaboration:** Always open to working on exciting projects or contributing to meaningful initiatives.  
-- 🎯 **Focus Areas:** Data-driven decision-making, operations optimization, and customer satisfaction analytics.  
-
----
-
 ### ✨ Fun Facts:
 - 🌎 **Lifelong Learner:** Constantly seeking new challenges to expand my skills and broaden my horizons.  
 - 🎨 **Creative Mindset:** I believe data can be both **informative** and **beautiful**!  
